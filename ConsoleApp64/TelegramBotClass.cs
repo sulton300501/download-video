@@ -8,6 +8,7 @@ using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Types.ReplyMarkups;
 using Telegram.Bot.Types.InlineQueryResults;
 
+
 namespace TelegramBotExample
 {
     public class TelegramBotClass
